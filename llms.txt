@@ -1,0 +1,76 @@
+# GDV Calculator | Residual Land Value Workbench (BCIS Q2 2026)
+
+> Free gross development value calculator and residual land value workbench. BCIS Q2-2026 build rates, NPPF Aug 2026 viability, sensitivity heatmap, no signup
+
+## Pages
+
+- [Home](https://gdvcalculator.co.uk): Free gross development value calculator (GDV calculator). Residual land value, BCIS Q2-2026 build cost, sensitivity heatmap, no signup
+- [About GDV Calculator](https://gdvcalculator.co.uk/about): About the GDV Calculator workbench. Data integrity and content by Oliver Wakefield-Smith, reviewed by chartered surveyor and CTA. No affiliate links
+- [GDV Calculator Changelog](https://gdvcalculator.co.uk/changelog): Changelog of GDV Calculator workbench. NPPF Aug 2026, PPG-Viability Dec 2025, BCIS Q2-2026 refresh
+- [Profit on Cost vs Profit on GDV](https://gdvcalculator.co.uk/compare/profit-on-cost-vs-profit-on-gdv): PoC vs PoGDV. PPG-Viability suggests a 15 to 20 percent PoGDV range (17.5 percent midpoint). Lenders reference 20 percent PoC. Conversion formula...
+- [Residual Method vs Comparable Method](https://gdvcalculator.co.uk/compare/residual-vs-comparable-method): Residual method vs comparable method for development land. When RICS Red Book requires each, when PPG-Viability requires both
+- [SDLT vs LBTT vs LTT on Land](https://gdvcalculator.co.uk/compare/sdlt-vs-lbtt-vs-ltt-on-land): Land tax comparison: SDLT (England, NI), LBTT (Scotland), LTT (Wales) on development land. When each treats land as non-residential
+- [GDV Calculator Comparison](https://gdvcalculator.co.uk/compare/this-vs-propertydata-vs-homedata): UK GDV calculator comparison. Free vs paid, signup, sensitivity, BNG/CIL, LTGDV, methodology transparency
+- [Property Development Cost Calculator](https://gdvcalculator.co.uk/cost-lines): Eight cost-line reference pages: BCIS build, s106/CIL/BNG, SDLT, professional fees, contingency, sales and marketing, finance roll-up, developer return
+- [BCIS 2026 Build Cost per sqm](https://gdvcalculator.co.uk/cost-lines/build-cost-bcis-2026): BCIS general building cost index Q2 2026. £/sqm rates by region with the BCIS regional adjustment factor (North West = 100)
+- [Development Contingency Percentage](https://gdvcalculator.co.uk/cost-lines/contingency): Contingency by scheme risk: 5 percent simple new build, 7.5 percent typical, 10 percent conversion, 15 percent heritage / unknown structure
+- [Developer Return on GDV Benchmark](https://gdvcalculator.co.uk/cost-lines/developer-return-benchmark): Developer return benchmark. PPG-Viability suggests a 15 to 20 percent profit-on-GDV range (17.5 percent midpoint). Lenders reference 20 percent profit-on-cost
+- [Development Finance Interest Roll-Up](https://gdvcalculator.co.uk/cost-lines/finance-and-interest-roll-up): Development finance interest roll-up. S-curve drawdown, arrangement, monitoring, exit fees. IRR vs flat-rate quote
+- [Development Professional Fees Percentage](https://gdvcalculator.co.uk/cost-lines/professional-fees): Architect, QS, planning consultant and legal fees as percentage of build cost. Typical band 10 to 15 percent
+- [Development Sales Agency Fees](https://gdvcalculator.co.uk/cost-lines/sales-and-marketing): Sales and marketing cost line: estate agent 1 to 1.5 percent + VAT, legal per unit, 10-year warranty (LABC, Premier, NHBC), show...
+- [SDLT on Development Land](https://gdvcalculator.co.uk/cost-lines/sdlt-on-development-sites): SDLT on development land. When non-residential rates apply, when 5 percent surcharge applies. MDR abolished June 2024; six-or-more-dwellings rule remains
+- [Section 106, CIL and BNG Calculator](https://gdvcalculator.co.uk/cost-lines/section-106-cil-bng): Section 106 obligations, Community Infrastructure Levy and 10 percent Biodiversity Net Gain. When each applies, and how to model per unit
+- [BCIS, DLUHC, Land Registry Sources of Record](https://gdvcalculator.co.uk/data-sources): Live source-of-record list. BCIS Q2-2026, NPPF Aug 2026, PPG-Viability, Land Registry, HMRC SDLT, Revenue Scotland LBTT, WRA LTT, UK Finance
+- [GDV Calculator Disclaimer](https://gdvcalculator.co.uk/disclaimer): GDV Calculator disclaimer. Indicative-only output; not a RICS Red Book valuation. Limitation of liability
+- [GDV Calculator FAQ](https://gdvcalculator.co.uk/faq): Frequently asked questions on the GDV Calculator workbench. BCIS rates, Section 106, CIL, BNG, lender export
+- [Property Development Finance Calculator](https://gdvcalculator.co.uk/finance): Five finance topics: LTGDV vs LTC, senior vs mezzanine, joint venture, bridging on GDV, development exit finance
+- [Bridging Loan Against GDV](https://gdvcalculator.co.uk/finance/bridging-loan-on-gdv): Bridging loan against GDV. Q2-2026 LTGDV caps 70 to 75 percent on bridging. Bridge-to-development re-finance
+- [Development Exit Finance Calculator](https://gdvcalculator.co.uk/finance/development-exit-finance): Development exit finance. Q2-2026 rates 0.6 to 0.95 percent pcm. LTGDV cap and decision-aid vs continuing on dev facility
+- [Joint Venture Property Profit Share](https://gdvcalculator.co.uk/finance/joint-venture-profit-share): Joint venture property profit share. Pref-and-promote waterfall, land-owner vs developer split, SPV / SPC standard structure
+- [LTGDV vs LTC Explained](https://gdvcalculator.co.uk/finance/ltgdv-vs-ltc): LTGDV vs LTC. Q2-2026 senior caps 60 to 65 percent LTGDV and 75 to 80 percent LTC. Worked example shows which binds...
+- [Senior vs Mezzanine Development Finance](https://gdvcalculator.co.uk/finance/senior-vs-mezzanine): Senior development finance 8 to 10 percent, mezzanine 12 to 18 percent Q2-2026. Inter-creditor terms. Pref-equity alternative
+- [Property Development Glossary UK](https://gdvcalculator.co.uk/glossary): Forty RICS and lender terms for UK property development. GIA, NIA, NDSS, LTGDV, LTC, IRR, BNG, CIL, MRICS
+- [LTGDV Calculator](https://gdvcalculator.co.uk/ltgdv-calculator): LTGDV calculator. Senior debt sizing at lender LTGDV cap. Q2-2026 senior debt typically 60 to 65 percent LTGDV
+- [Residual Valuation Methodology](https://gdvcalculator.co.uk/methodology): Residual method step-by-step. NPPF Aug 2026, PPG-Viability Dec 2025, BCIS Q2-2026, RICS Red Book
+- [Profit on Cost Calculator](https://gdvcalculator.co.uk/profit-on-cost-calculator): Profit on cost calculator for UK property development. Lender benchmark 20 percent PoC, NPPF benchmark 17.5 percent PoGDV
+- [Quick GDV Calculator UK](https://gdvcalculator.co.uk/quick-gdv): Lightweight GDV calculator. Units x NIA x £ per sqft. Sub-60 second answer. No cost stack
+- [BCIS Build Cost Calculator](https://gdvcalculator.co.uk/regions): BCIS general building cost index Q2-2026 by region. 12 UK regions plus six London boroughs
+- [Regions East Midlands](https://gdvcalculator.co.uk/regions/east-midlands): East Midlands BCIS Q2-2026 build cost and GDV ranges. Nottingham, Derby, Leicester; sub-250k GDV/unit pencils on small sites
+- [Regions East Of England](https://gdvcalculator.co.uk/regions/east-of-england): East of England BCIS Q2-2026 build cost and GDV ranges. Cambridge growth corridor lifts the mid band; Norwich and Chelmsford anchor the...
+- [Regions London](https://gdvcalculator.co.uk/regions/london): London (Outer) BCIS Q2-2026 build cost and GDV ranges. Outer London BCIS; Inner London adds a further 5 to 12 percent on...
+- [Regions London Camden Nw3](https://gdvcalculator.co.uk/regions/london/camden-nw3): Camden NW3 GDV per sqft, CIL 535 £/sqm, Mayoral CIL2 Z1
+- [Regions London Hackney E8](https://gdvcalculator.co.uk/regions/london/hackney-e8): Hackney E8 GDV per sqft, CIL 305 £/sqm, Mayoral CIL2 Z2
+- [Regions London Lewisham Se13](https://gdvcalculator.co.uk/regions/london/lewisham-se13): Lewisham SE13 GDV per sqft, CIL 130 £/sqm, Mayoral CIL2 Z2
+- [Regions London Southwark Se1](https://gdvcalculator.co.uk/regions/london/southwark-se1): Southwark SE1 GDV per sqft, CIL 350 £/sqm, Mayoral CIL2 Z2
+- [Regions London Tower Hamlets E14](https://gdvcalculator.co.uk/regions/london/tower-hamlets-e14): Tower Hamlets E14 GDV per sqft, CIL 200 £/sqm, Mayoral CIL2 Z2
+- [Regions London Wandsworth Sw18](https://gdvcalculator.co.uk/regions/london/wandsworth-sw18): Wandsworth SW18 GDV per sqft, CIL 265 £/sqm, Mayoral CIL2 Z1
+- [Regions North East](https://gdvcalculator.co.uk/regions/north-east): North East BCIS Q2-2026 build cost and GDV ranges. Newcastle, Sunderland, Middlesbrough; sub-200k GDV/unit lives on small sites
+- [Regions North West](https://gdvcalculator.co.uk/regions/north-west): North West (BCIS baseline) BCIS Q2-2026 build cost and GDV ranges. BCIS regional baseline (index 100). Manchester, Liverpool, Chester
+- [Regions Northern Ireland](https://gdvcalculator.co.uk/regions/northern-ireland): Northern Ireland BCIS Q2-2026 build cost and GDV ranges. UK SDLT applies (not LBTT/LTT); Belfast anchors the upper band
+- [Regions Scotland](https://gdvcalculator.co.uk/regions/scotland): Scotland BCIS Q2-2026 build cost and GDV ranges. LBTT and ADS apply; NPF4 viability tests differ from NPPF
+- [Regions South East](https://gdvcalculator.co.uk/regions/south-east): South East England BCIS Q2-2026 build cost and GDV ranges. Surrey, Kent, Sussex commuter belt premium versus coastal Sussex/Hampshire
+- [Regions South West](https://gdvcalculator.co.uk/regions/south-west): South West England BCIS Q2-2026 build cost and GDV ranges. Bristol pulls the average up; Cornwall second-home premium adds tail risk
+- [Regions Wales](https://gdvcalculator.co.uk/regions/wales): Wales BCIS Q2-2026 build cost and GDV ranges. LTT not SDLT changes the land bid; Cardiff and Swansea pull the average
+- [Regions West Midlands](https://gdvcalculator.co.uk/regions/west-midlands): West Midlands BCIS Q2-2026 build cost and GDV ranges. Birmingham CIL bites on city schemes; HMO yield path strong in Coventry
+- [Regions Yorkshire And Humber](https://gdvcalculator.co.uk/regions/yorkshire-and-humber): Yorkshire and the Humber BCIS Q2-2026 build cost and GDV ranges. Leeds LS6 student-let HMO yield used as GDV proxy on conversion...
+- [Residual Land Value Calculator](https://gdvcalculator.co.uk/residual-land-value-calculator): Free residual land value calculator. Back-solves max land bid from GDV minus costs minus profit. BCIS Q2-2026, NPPF Aug 2026
+- [Property Development Worked Examples](https://gdvcalculator.co.uk/scenarios): Five worked development scenarios with full ledger maths. Leeds LS6, Manchester M4, Croydon, Cornwall, Brighton
+- [3-Unit Terrace Development Appraisal](https://gdvcalculator.co.uk/scenarios/3-unit-terrace-leeds): Worked example: 3-unit new-build terrace in Leeds LS6. 975k GDV, Yorkshire BCIS Q2-2026, 20 percent PoC residual
+- [9-Unit Block Development Appraisal Manchester](https://gdvcalculator.co.uk/scenarios/9-unit-block-manchester-m4): Worked example: 9-unit block, Manchester M4. 2.34m GDV. NW BCIS baseline. Senior debt 65 percent LTGDV
+- [Mixed-Use Development Worked Example](https://gdvcalculator.co.uk/scenarios/mixed-use-shop-and-3-flats-brighton): Worked mixed-use appraisal: ground-floor retail (capitalised at 6.5 percent yield) plus 3 flats x 350k. Brighton
+- [Office to Flats Conversion Croydon Appraisal](https://gdvcalculator.co.uk/scenarios/office-to-12-flats-croydon): Worked example: office to 12 flats, Croydon CR0. Class O PDR. London Outer BCIS conversion £1,750/sqm
+- [Self-Build Appraisal Worked Example](https://gdvcalculator.co.uk/scenarios/single-self-build-cornwall): Worked self-build appraisal: 180 sqm single dwelling, Cornwall PL postcode. VAT reclaim path. 625k GDV
+- [Property Development Calculator](https://gdvcalculator.co.uk/scheme-types): Nine scheme-type presets that load the GDV workbench. New-build, small-sites, PDR, office-to-resi, barn, self-build, mixed-use, HMO, BTR
+- [Scheme Types Barn Conversion](https://gdvcalculator.co.uk/scheme-types/barn-conversion): Class Q PDR up to 10 dwellings, 150sqm cap. Unknown-structure conversions justify 15 percent contingency
+- [Scheme Types Build To Rent](https://gdvcalculator.co.uk/scheme-types/build-to-rent): BTR GDV is NOI / net initial yield. Op-cost ratio 25 to 30 percent of gross rent; yield 4.25 to 5.5 percent
+- [Scheme Types Houses Of Multiple Occupation](https://gdvcalculator.co.uk/scheme-types/houses-of-multiple-occupation): HMO converts a single C3 dwelling to sui generis or C4. GDV sized as NOI capitalised at 7 to 9 percent yield
+- [Scheme Types Mixed Use](https://gdvcalculator.co.uk/scheme-types/mixed-use): Ground-floor retail or office capitalised on NOI/yield, residential units priced on £/sqft
+- [Scheme Types New Build Residential](https://gdvcalculator.co.uk/scheme-types/new-build-residential): Medium-rise blocks or terraces. BCIS general new-build rate; CIL and BNG itemised per unit
+- [Scheme Types Office To Resi Conversion](https://gdvcalculator.co.uk/scheme-types/office-to-resi-conversion): Class O PDR or full planning conversion. BCIS conversion rate is roughly 70 to 80 percent of new build
+- [Scheme Types Permitted Development C3](https://gdvcalculator.co.uk/scheme-types/permitted-development-c3): Class O, MA or G prior-approval conversion. NDSS now applies; daylight or BRE often kills schemes pre-residual
+- [Scheme Types Self Build](https://gdvcalculator.co.uk/scheme-types/self-build): Single dwelling self-build with HMRC VAT reclaim on materials. Target return lower than commercial development
+- [Scheme Types Small Sites 1 9 Units](https://gdvcalculator.co.uk/scheme-types/small-sites-1-9-units): NPPF Aug 2026 small-sites threshold. From 6 Aug 2026 a new BNG exemption covers sites up to 0.2ha with no on-site priority...
+
+---
+
+*Generated 2026-08-26 from GDV Calculator | Residual Land Value Workbench (BCIS Q2 2026) site source.*
